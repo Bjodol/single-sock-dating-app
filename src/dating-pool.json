@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "title": "Cuty",
+            "description": "I might seem cute at the picture, but I like dressing in black",
+            "age": "23",
+            "img": "/public/sock1.webp"
+        },
+        {
+            "title": "Dreamy",
+            "description": "I am dreaming about going to the stars",
+            "age": "24",
+            "img": "/public/sock2.jpg"
+        },
+        {
+            "title": "Torros",
+            "description": "Don't let my presence intimidate you.",
+            "age": "26",
+            "img": "/public/sock3.jpg"
+        },
+        {
+            "title": "Saab",
+            "description": "I am handy",
+            "age": "31",
+            "img": "/public/sock4.jpg"
+        },
+        {
+            "title": "Trish",
+            "description": "I'm not classy in the drawer",
+            "age": "46",
+            "img": "/public/sock5.jpg"
+        },
+        {
+            "title": "Buff",
+            "description": "I like working out",
+            "age": "24",
+            "img": "/public/sock6.jpg"
+        },
+        {
+            "title": "Wobbly",
+            "description": "Fun and creative",
+            "age": "22",
+            "img": "/public/sock7.jpg"
+        }
+    ]
+}
