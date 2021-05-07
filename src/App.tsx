@@ -3,7 +3,8 @@ import datingPool from "./dating-pool.json";
 
 function App() {
   const [state, setState] = useState(0);
-  const increment = () => setState(state + 1);
+  const increment = () =>
+    setState(datingPool.candidates.length - 1 > state ? state + 1 : 0);
   const { img, title, age, description } = datingPool.candidates[state];
   return (
     <div>
